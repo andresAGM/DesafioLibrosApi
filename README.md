@@ -3,10 +3,14 @@
 El objetivo de este desafio es consumir una API diferente a la de screenmatch utilizando spring boot.
 #### Descripción
 Se crea una aplicacion en spring boot que consume la API de <a href="https://gutendex.com/?ref=public_apis"><strong>Gutenbex</strong></a> para el consumo de libros. La aplicacion permite buscar libros por titulo.
+#### Instalacion
+Descargar el zip o clonar el repositorio e importar en el IDE (Recordar que se necesita tener Maven instalado)
+
 #### Tecnologias
 - Java 11
 - Spring Boot
 - Jackson
+- Maven
 
 ### Funcionalidades
 - Mostrar el top 10 de libros
