@@ -8,7 +8,7 @@ Se crea una aplicacion en spring boot que consume la API de <a href="https://gut
 - Spring Boot
 - Jackson
 
-###Funcionalidades
+### Funcionalidades
 - Mostrar el top 10 de libros
 - Buscar libros por nombre
 - Mostrar estadisticas de los libros segun las descargas
